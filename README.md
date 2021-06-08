@@ -70,7 +70,7 @@ The Policy is attached by searching S3FullAccess provide a suitable name and cre
 
 #### Launching EC2 Instance
 We launch an ec2 instance using Linux AMI 2 as our base image.
-In the configuration page attach our created role and add the script given  [attache link] in place of **User Data**
+In the configuration page attach our created role and add the script given [EC2-Script](https://github.com/gunishjain/AWS-HA-Website/blob/main/EC2_Script.txt "EC2-Script") in place of **User Data**
 ![EC2C](https://github.com/gunishjain/AWS-HA-Website/blob/main/Screenshots/ec2-role.JPG)
 
 ![EC2C](https://github.com/gunishjain/AWS-HA-Website/blob/main/Screenshots/ec2-launch.JPG)
