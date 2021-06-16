@@ -1,4 +1,4 @@
-# AWS High Availibility Website
+# AWS High Availability Website
 This Project Demonstrates How to Setup a Wordpress Website which is Highly Available and Scalable using AWS.
 Everything was done using different AWS Services 
 
